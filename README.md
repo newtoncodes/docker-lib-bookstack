@@ -1,2 +1,3 @@
-# docker-lib-bookstack
-Docker bookstack image based on ubuntu. 
+# Bookstack on ubuntu docker image
+
+Basic Bookstack image, no additional functionality. Runs on apache.
